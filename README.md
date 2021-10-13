@@ -49,4 +49,4 @@ docker run -p 3838:3838 zatch3301/shinychat:1.0.0
 
 ## Running the deployed app
 
-The project is also deployed on [shinyapps.io](https://www.shinyapps.io/) and can be accessed by [this link](https://zatch.shinyapps.io/chat_room/)
+The project is also deployed on [shinyapps.io](https://www.shinyapps.io/) and can be accessed from [this link](https://zatch.shinyapps.io/chat_room/)
